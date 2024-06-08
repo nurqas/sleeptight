@@ -24,10 +24,10 @@ import pickle
 import pandas as pd
 
 # Initialize Firebase
-cred = credentials.Certificate("sleeptight-e07fb-firebase-adminsdk-az8uc-15af14e0d4.json")
-firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://sleeptight-e07fb-default-rtdb.asia-southeast1.firebasedatabase.app/'
-})
+# cred = credentials.Certificate("sleeptight-e07fb-firebase-adminsdk-az8uc-15af14e0d4.json")
+# firebase_admin.initialize_app(cred, {
+#     'databaseURL': 'https://sleeptight-e07fb-default-rtdb.asia-southeast1.firebasedatabase.app/'
+# })
 
 
 # Load the trained model and label encoders
