@@ -10,6 +10,7 @@
 -	pip install flask
 -	pip install pip install Flask-Cors
 -	pip install python-pdf
+-	pip install fpdf
 -	pip install firebase-admin
 -	pip install pickle5 (if u have an error, its fine.. move on)
 -	pip install pandas
