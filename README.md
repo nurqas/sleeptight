@@ -1,3 +1,4 @@
+!!Download pip if you have not. Follow instructions here to install pip: https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
 1.	Open your XAMPP Control Panel and start Apache and MySQL.
 2.	Download the zip version of this source code folder (click on the green button "code" and then "Download zip") and paste it into the XAMPP's "htdocs" directory.
 3.	Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
