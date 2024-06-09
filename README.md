@@ -15,7 +15,7 @@
 -	pip install pandas
 -	pip install scikit-learn
 -	pip install Flask-SQLAlchemy
--	and more… cant remember
+-	and more… will add when u guys send me more error messages
 8.	Open Command Prompt, type “cd \xampp\htdocs\edoc\firebase” (edit path according till u reach the “firebase” folder) and then type “python app.py”. This is to start Flask to interact with the data from Firebase (dynamic database). To end, type "ctrl c".
 
 Open Command Prompt, type “cd \xampp\htdocs\edoc\firebase” (edit path according till u reach the “firebase” folder) and then type “python app.py”. This is to start Flask to interact with the data from Firebase (dynamic database). To end, type "ctrl c".
