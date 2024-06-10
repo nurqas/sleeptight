@@ -21,3 +21,15 @@
 8.	Open Command Prompt, type “cd \xampp\htdocs\sleeptight\firebase” (edit path according till u reach the “firebase” folder) and then type “python app.py”. This is to start Flask to interact with the data from Firebase (dynamic database). To end, type "ctrl c".
 
 !!Remember to stop XAMPP Apache and MySQL if you are not using it anymore
+
+ADMIN
+Email: admin@edoc.com
+Password: 123
+
+ Doctor
+Email: doctor@edoc.com
+Password: 123
+
+Patient
+Email: patient@edoc.com
+Password: 123
