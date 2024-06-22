@@ -60,6 +60,11 @@
     <div class="container">
         <div class="menu">
             <table class="menu-container" border="0">
+            <tr>
+                <td width="100%" style="padding-left:10px" >
+                    <img src="../images/logo.jpg" alt="" width="100%" style="border-radius:30%">
+                </td>
+            </tr>
                 <tr>
                     <td style="padding:10px" colspan="2">
                         <table border="0" class="profile-container">
