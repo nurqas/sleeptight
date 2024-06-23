@@ -85,7 +85,7 @@
                     </td>
                 </tr>
                 <tr class="menu-row" >
-                    <td class="menu-btn" >
+                    <td class="menu-btn menu-icon-session" >
                         <a href="survey.php" class="non-style-link-menu"><div><p class="menu-text" style="color:red;">Prediction Quiz</p></a></div></a>
                     </td>
                 </tr>
