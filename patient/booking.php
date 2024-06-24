@@ -313,7 +313,7 @@
                                                             Session Title: '.$title.'<br>
                                                             Session Scheduled Date: '.$scheduledate.'<br>
                                                             Session Starts : '.$scheduletime.'<br>
-                                                            Appointment fee : <b>5 EUR</b>
+                                                            Appointment fee : <b>70 EUR</b>
 
                                                         </div>
                                                         <br>
@@ -347,7 +347,7 @@
                                         </tr>
                                         <tr>
                                         <td>
-                                        <input type="button" class="login-btn btn-primary btn btn-payment" style="margin-left:10px;padding-left: 25px;padding-right: 25px;padding-top: 10px;padding-bottom: 10px;width:95%;text-align: center;" value="Pay 5 EUR" onclick="openPopup()">
+                                        <input type="button" class="login-btn btn-primary btn btn-payment" style="margin-left:10px;padding-left: 25px;padding-right: 25px;padding-top: 10px;padding-bottom: 10px;width:95%;text-align: center;" value="Pay 70 EUR" onclick="openPopup()">
                                         <br><br>
                                         <form id="bookNowForm" action="your_previous_page.php" method="post">
                                             <input type="submit" class="login-btn btn-primary btn btn-book" style="margin-left:10px;padding-left: 25px;padding-right: 25px;padding-top: 10px;padding-bottom: 10px;width:95%;text-align: center;background-image: none;" value="Book now" name="booknow" disabled>

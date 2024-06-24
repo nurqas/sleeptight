@@ -63,6 +63,11 @@
                     <td style="padding:10px" colspan="2">
                         <table border="0" class="profile-container">
                             <tr>
+                            <td width="100%" style="padding-left:10px" >
+                                    <img src="../images/logo.jpg" alt="" width="100%" style="border-radius:30%">
+                                </td>
+                            </tr>
+                            <tr>
                                 <td width="30%" style="padding-left:20px" >
                                     <img src="../img/user.png" alt="" width="100%" style="border-radius:50%">
                                 </td>
@@ -80,7 +85,7 @@
                     </td>
                 </tr>
                 <tr class="menu-row" >
-                    <td class="menu-btn" >
+                    <td class="menu-btn menu-icon-session" >
                         <a href="survey.php" class="non-style-link-menu"><div><p class="menu-text" style="color:red;">Prediction Quiz</p></a></div></a>
                     </td>
                 </tr>

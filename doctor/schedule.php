@@ -82,7 +82,7 @@
              
              <tr class="menu-row" >
                  <td class="menu-btn menu-icon-session menu-active menu-icon-session-active">
-                     <a href="schedule.php" class="non-style-link-menu non-style-link-menu-active"><div><p class="menu-text">My Sessions</p></div></a>
+                     <a href="schedule.php" class="non-style-link-menu non-style-link-menu-active"><div><p class="menu-text">My Availabilities</p></div></a>
                  </td>
              </tr>
              <tr class="menu-row" >
@@ -105,7 +105,7 @@
                     <a href="schedule.php" ><button  class="login-btn btn-primary-soft btn btn-icon-back"  style="padding-top:11px;padding-bottom:11px;margin-left:20px;width:125px"><font class="tn-in-text">Back</font></button></a>
                     </td>
                     <td>
-                        <p style="font-size: 23px;padding-left:12px;font-weight: 600;">My Sessions</p>
+                        <p style="font-size: 23px;padding-left:12px;font-weight: 600;">My Availabilities</p>
                                            
                     </td>
                     <td width="15%">
@@ -136,7 +136,7 @@
                 <tr>
                     <td colspan="4" style="padding-top:10px;width: 100%;" >
                     
-                        <p class="heading-main12" style="margin-left: 45px;font-size:18px;color:rgb(49, 49, 49)">My Sessions (<?php echo $list110->num_rows; ?>) </p>
+                        <p class="heading-main12" style="margin-left: 45px;font-size:18px;color:rgb(49, 49, 49)">My Availabilities (<?php echo $list110->num_rows; ?>) </p>
                     </td>
                     
                 </tr>
