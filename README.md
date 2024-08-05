@@ -12,7 +12,7 @@
 -	pip install python-pdf
 -	pip install fpdf
 -	pip install firebase-admin
--	pip install pickle5 (if u have an error, its fine.. move on)
+-	pip install pickle5 
 -	pip install pandas
 -	pip install scikit-learn
 -	pip install Flask-SQLAlchemy
